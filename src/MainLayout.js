@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './MainLayout.css';
+import './layout-template.css';
 
 class MainLayout extends Component {
   render() {
