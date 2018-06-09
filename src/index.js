@@ -5,8 +5,9 @@ import Content from './Content';
 import Footer from './Footer';
 import registerServiceWorker from './registerServiceWorker';
 
+
 ReactDOM.render( 
-    < div >
+    <div>
         <MainLayout / >
         <Content / >
         <Footer />
