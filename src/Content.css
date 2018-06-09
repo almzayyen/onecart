@@ -1,0 +1,16 @@
+.main {
+}
+
+.info {
+    text-align: center;
+    padding: 100px 0 100px 0;
+    background-color: rgba(105, 105, 105, 0.637);
+}
+
+.info1{
+    padding: 100px;
+}
+
+.desc {
+    padding: 0 90px 0 90px;
+}
