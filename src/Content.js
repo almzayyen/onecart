@@ -10,8 +10,7 @@ const Content = () => {
     return(
         <div>
          <div className="center">
-                <Text2List heading="Amazon, GearBest, ebay.com URLs field:" placeholder="Paste product addresses here" enterButtonText="Add to  Cart" stopOnDuplicate="true" onAdd={addCallback}/>
-                <button className=".Text2List_buttonsWrapper">test</button>
+                <Text2List heading="Amazon, GearBest, eBay product links:" placeholder="Paste product addresses here" enterButtonText="Add to Cart" stopOnDuplicate="true" onAdd={addCallback}/>
             </div>
         </div>
     );
