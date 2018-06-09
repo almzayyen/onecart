@@ -7,7 +7,7 @@ class MainLayout extends Component {
       <div>
         <div id="menuBackground">
           <div id="menuContainer">
-            <label for="show-menu" class="show-menu">OneCart ￬</label>
+            <label htmlFor="show-menu" className="show-menu">OneCart ￬</label>
             <input type="checkbox" id="show-menu" role="button"/>
             <ul id="menu">
               <h1 id="logo">OneCart</h1>
@@ -16,7 +16,7 @@ class MainLayout extends Component {
               </li>
               <li>
                 <a href="#">Account ￬</a>
-                <ul class="hidden">
+                <ul className="hidden">
                   <li>
                     <a href="#">Login</a>
                   </li>

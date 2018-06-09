@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
+    "react-center": "^1.1.1",
     "react-dom": "^16.4.0",
-    "react-scripts": "1.1.4"
+    "react-scripts": "1.1.4",
+    "react-text-2-list": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
